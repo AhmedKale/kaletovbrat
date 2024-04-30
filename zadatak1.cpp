@@ -2,9 +2,9 @@
 using namespace std;
 
 void pozdrav() {
-    cout << "Ime: [Vaše ime]" << endl;
-    cout << "Prezime: [Vaše prezime]" << endl;
-    cout << "Škola: [Naziv vaše škole]" << endl;
+    cout << "Ime: [Ahmed]" << endl;
+    cout << "Prezime: [Katica]" << endl;
+    cout << "Škola: [Perzijsko bosanski koledž]" << endl;
 }
 
 int main() {
