@@ -3,8 +3,8 @@ using namespace std;
 
 
 void pozdrav(int godine) {
-    cout << "Ime: [Vaše ime]" << endl;
-    cout << "Prezime: [Vaše prezime]" << endl;
+    cout << "Ime: [Ahmed ]" << endl;
+    cout << "Prezime: [Katica]" << endl;
     cout << "Godine: " << godine << endl;
 }
 
