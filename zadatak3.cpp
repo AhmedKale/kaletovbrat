@@ -1,28 +1,24 @@
-#include <iostream>
+#include<iostream>
+#include<ctime>
+#include<cstdlib>
+
 using namespace std;
 
-// Funkcija koja računa zbir cifara broja
-int vratiZbirCifara(int broj) {
-    int zbir = 0;
-    while (broj > 0) {
-        zbir += broj % 10;  
-        broj /= 10;         
-    }
-    return zbir;
+int danifeb(){
+    srand(time(NULL));
+    int n = rand() % 29 + 1;
+    return n;
 }
 
-int main() {
-    int n;
-    cout << "Unesite prirodan broj n: ";
-    cin >> n;
-
-    int brojKoraka = 0;
-    while (n >= 10) {
-        n = vratiZbirCifara(n);  // Izračunaj zbir cifara
-        brojKoraka++;             // Povećaj broj koraka
+int main(){
+    srand(time(NULL));
+    int n = danifeb();
+    cout << "februar "<< n << "." << endl;
+    if (n == 27){
+        cout << "LOTOOOOO!!!!" << endl;
     }
-
-    cout << "Broj koraka potreban da se dobije jednocifreni broj: " << brojKoraka << endl;
-
-    return 0;
+    else{
+        cout << "a pih" << endl;
+    }
 }
+return 0;
