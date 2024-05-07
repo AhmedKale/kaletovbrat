@@ -5,8 +5,11 @@ Prvo sam napravio account i onda napravio repozitori koji sam napravio javnim, n
 
 ## Zadatak prvi (par/nepar)
 U ovom zadatku pravimo funkciju par koja provjerava da li je broj paran ili neparan i vraca bool vrijednost da li je ili nije paran.
+![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/c0616bdf-a810-4115-a5ae-db4881ecb3df)
 Nakon toga u main funkciji pravimo varijablu n i pomocu funkcije provjeravamo da li je broj paran ili neparan.
 Nakon toga ukoliko je broj n paran na konzoli se ispisuje da je paran a ukoliko je neparan ispisuje se suprotno.
+![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/707202a5-7950-40c1-8dee-9b8764c091b6)
+
 | 1       | 2     | 3       | 4     | 5       |
 |---------|-------|---------|-------|---------|
 | NEPARAN | PARAN | NEPARAN | PARAN | NEPARAN |
