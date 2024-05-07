@@ -1,17 +1,19 @@
-#include <iostream>
+#include<iostream>
+
 using namespace std;
 
-
-void pozdrav(int godine) {
-    cout << "Ime: [Ahmed ]" << endl;
-    cout << "Prezime: [Katica]" << endl;
-    cout << "Godine: " << godine << endl;
+int zbircifara(int x){
+    int zbir = 0;
+    while(x != 0){
+        zbir += x % 10;
+        x /= 10;
+    }
+    return zbir;
 }
 
-int main() {
-    int mojeGodine = 25; 
-
-    pozdrav(mojeGodine);
-    
-    return 0;
+int main(){
+    int n;
+    cin >> n;
+    cout << "zbir cifara :" << zbircifara(n) << endl;
+    retun 0;
 }
