@@ -15,8 +15,12 @@ Nakon toga ukoliko je broj n paran na konzoli se ispisuje da je paran a ukoliko 
 | NEPARAN | PARAN | NEPARAN | PARAN | NEPARAN |
 
 ## Drugi zadatak (zbir cifara)
-U ovom zadatku prvo pravimo funkciju zbir cifara koja prima cijelobrojni parametar i koja ce pomocu whle petlje sabrati zbir cifara i vratiti ga. 
+U ovom zadatku prvo pravimo funkciju zbir cifara koja prima cijelobrojni parametar i koja ce pomocu whle petlje sabrati zbir cifara i vratiti ga.
+![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/75af858e-815a-49fe-a94f-f1230f648424)
+
 Nakon toga u main funkciji deklarisemo varijablu n i ispisujemo zbir cifara broja n.
+![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/ba9d6930-1e7b-4ca3-9dd2-4e0f8849c255)
+
 | 2134 | 6871 | 1234 | 7321 | 8521 |
 |------|------|------|------|------|
 | 10   | 22   | 10   | 13   | 16   |
