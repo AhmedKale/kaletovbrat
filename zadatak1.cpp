@@ -1,15 +1,26 @@
-#include <iostream>
+#include<iostream>
+#include<cstdlib>
+
 using namespace std;
 
-void pozdrav() {
-    cout << "Ime: [Ahmed]" << endl;
-    cout << "Prezime: [Katica]" << endl;
-    cout << "Škola: [Perzijsko bosanski koledž]" << endl;
+
+bool par(int x){
+    bool par = false;
+    if (x % 2 == 0){
+        par = true;
+    }
+    return par;
 }
 
-int main() {
-    // Poziv funkcije pozdrav
-    pozdrav();
-    
+int main(){
+    int n;
+    cin >> n;
+    if (par(n)){
+        cout << "Broj je paran" << endl;
+    }
+    else{
+        cout << "Neparan je" << endl;
+    }
+
     return 0;
 }
