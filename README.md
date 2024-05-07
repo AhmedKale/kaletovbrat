@@ -1,1 +1,2 @@
-#Ovoje moja kuca zivio sam tu
+# Ovo je Mukijev repozitor
+JA sam mala pa picku poderala
