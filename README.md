@@ -20,6 +20,8 @@ Nakon toga u main funkciji deklarisemo varijablu n i ispisujemo zbir cifara broj
 
 ## Treci zadatak (omiljeni datum)
 U ovom zadatku pravimo funkciju danifeb koja ce generisat random vrijednost od 1 do 29.
+![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/2d7271a6-00ae-4ff2-9690-95dc57b5ca26)
+
 Nakon toga u main funkciji ispitujemo da li smo dobili broj 27. Ukoliko smo dobili spomenuti broj program ispisuje "LOTO", u suprotnom ispisuje a pih
 | 23    | 21    | 26    | 27        | 3     |
 |-------|-------|-------|-----------|-------|
