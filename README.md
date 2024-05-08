@@ -4,8 +4,11 @@
 Prvo sam napravio account i onda napravio repozitori koji sam napravio javnim, nakon toga sam ubacio urađene zadatke i evo krenuo da pisem objasnjenje za te zadatke.
 U ovom repozitoru nalaze se 3 zadatka o funkcijama:
 - [par_nepar](#par_nepar)
+  - ispituje da li je broj paran ili ne
 - [zbir cifara](#zbir_cifara)
+  - trazi zbir cifara   
 - [omiljeni datum](#omiljeni_datum)
+  - random generise dane u februaru i gleda da li si dobio moj omiljeni datum 
 
 ## par_nepar
 U ovom zadatku pravimo funkciju par koja provjerava da li je broj paran ili neparan i vraca bool vrijednost da li je ili nije paran.
