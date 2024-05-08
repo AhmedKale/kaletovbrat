@@ -1,9 +1,13 @@
 # Ovo je Mukijev repozitor
 
 ## Ulazak u Github
-Prvo sam napravio account i onda napravio repozitori koji sam napravio javnim, nakon toga sam ubacio urađene zadatke i evo krenuo da pisem objasnjenje za te zadatke
+Prvo sam napravio account i onda napravio repozitori koji sam napravio javnim, nakon toga sam ubacio urađene zadatke i evo krenuo da pisem objasnjenje za te zadatke.
+U ovom repozitoru nalaze se 3 zadatka o funkcijama:
+- [par_nepar](#par_nepar)
+- [zbir cifara](#zbir_cifara)
+- [omiljeni datum](#omiljeni_datum)
 
-## Zadatak prvi (par/nepar)
+## par_nepar
 U ovom zadatku pravimo funkciju par koja provjerava da li je broj paran ili neparan i vraca bool vrijednost da li je ili nije paran.
 
 ![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/c0616bdf-a810-4115-a5ae-db4881ecb3df)
@@ -18,7 +22,7 @@ Nakon toga ukoliko je broj n paran na konzoli se ispisuje da je paran a ukoliko 
 |---------|-------|---------|-------|---------|
 | NEPARAN | PARAN | NEPARAN | PARAN | NEPARAN |
 
-## Drugi zadatak (zbir cifara)
+## zbir_cifara
 U ovom zadatku prvo pravimo funkciju zbir cifara koja prima cijelobrojni parametar i koja ce pomocu whle petlje sabrati zbir cifara i vratiti ga.
 
 ![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/75af858e-815a-49fe-a94f-f1230f648424)
@@ -31,7 +35,7 @@ Nakon toga u main funkciji deklarisemo varijablu n i ispisujemo zbir cifara broj
 |------|------|------|------|------|
 | 10   | 22   | 10   | 13   | 16   |
 
-## Treci zadatak (omiljeni datum)
+## omiljeni_datum
 U ovom zadatku pravimo funkciju danifeb koja ce generisat random vrijednost od 1 do 29.
 
 ![image](https://github.com/AhmedKale/kaletovbrat/assets/168407775/2d7271a6-00ae-4ff2-9690-95dc57b5ca26)
